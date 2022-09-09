@@ -1,0 +1,18 @@
+SPA (Single Page Application)
+
+React Is nothing but a Nodejs Project
+
+In order to install a react project you need npm
+
+npm = node Package Manager
+
+-g = globally
+ 
+js = javascript
+
+json = javascript object notation 
+npm i npx
+
+npm install -g create-react-app
+
+npx create-react-app  my-react-app
