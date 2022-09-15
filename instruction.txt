@@ -16,3 +16,41 @@ npm i npx
 npm install -g create-react-app
 
 npx create-react-app  my-react-app
+
+
+
+How to change  the default port ( 3000 ) of react project ?
+
+Go to package.json 
+	"start":"SET PORT=4000 && react-script-start"
+
+** Ctrl+C is the command to stop the react projest 
+ ** y -> Enter **
+
+
+** REactJs Is a Node JS project
+
+** A react component can contain other react component 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
