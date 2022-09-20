@@ -30,8 +30,18 @@ Go to package.json
 
 ** REactJs Is a Node JS project
 
-** A react component can contain other react component 
+** A react component can contain other react  component 
 
+** What is components ?
+	Components are reusable block code USED 
+	to genret some ui using html tags(JSX)
+	JSX is => Javascript and XML
+
+**	Types of components 
+	1. class components 
+	   A Class components is created with JS class
+	2. Functional components 
+	   A functional component is created with JS function
 
 
 
